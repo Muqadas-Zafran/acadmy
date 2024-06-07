@@ -7,7 +7,7 @@ const Header = () => {
     <div className='bg-blue-600 p-7'>
         <div className="max-w-[1240] py-[1px] items-center flex justify-between mx-auto">
             <div className='text-2xl font-bold'>
-                Eshel'sAcadmySystem
+                Eshel Academy System
             </div>
             {
                 toggle?
